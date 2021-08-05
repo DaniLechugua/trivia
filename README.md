@@ -1,8 +1,8 @@
-# trivia
+# Trivia de películas
 proceso trivia squad 3.2
 Boceto 02/
 
-Nuestra trivia esta pensada y diseñada para niños en un rango de edad de los 5 a 10 años aprox.
+Nuestra trivia está pensada y diseñada para niños y niñas que estén en un rango de edad entre los 6 a 12 años aprox. Nuestro objetivo es que el usuario viva una esperiencia entrenidad y se sienta parte de una comunidad de fans.
 
 Página 1 . Bienvenida
 
@@ -19,6 +19,8 @@ Página 2. Interacción
 
 Página 3. Preguntas (Toy Story)
 
+Título de la trivia 
+
 •	Pregunta 1: ¿Cómo se llama el niño de Woody?
 •	Imagen
 •	Alternativas: 
@@ -26,7 +28,6 @@ Sid
 Andy
 Dany
 
-Página 4 (Toy Story)
 •	Pregunta 2: ¿Qué juguete recibió Andy en su cumpleaños?
 •	Imagen
 •	Alternativas:
@@ -34,7 +35,7 @@ Rex
 Cara de papa
 Buzz lightyear
 
-Página 5 (Toy Story)
+
 •	Pregunta 3: ¿Cuántas ovejas tenía Betty?
 •	Imagen
 •	Alternativas:
@@ -43,8 +44,9 @@ Página 5 (Toy Story)
 3
 
 
+Página 4 Preguntas (Shrek)
 
-Página 6 (Shrek)
+título de la trivia
 
 •	Pregunta 1: ¿Qué hace Shrek para recuperar su pantano?
 •	Imagen
@@ -54,8 +56,6 @@ Rescatar a la princesa.
 Bailar con la dragona. 
 
 
-Página 7 (Shrek)
-
 •	Pregunta 2: ¿Cómo son los ogros?
 •	Imagen
 •	Alternativas:
@@ -63,7 +63,6 @@ Como las cebollas.
 Como las papas.
 Como los plátanos. 
 
-Página 8 (Shrek)
 
 •	Pregunta 3: ¿De quién se enamora Shrek?
 •	Imagen
@@ -72,7 +71,8 @@ El burro
 Lord Farquaad
 Fiona 
 
-Página 9 
+Página 5 y 6 (Resultados según la trivia que responda)
+
 •	Imagen final (Felicidades + Gif)
 •	Los resultados (Tu puntaje fue: ….), ya eres parte de nuestro club quieres seguir jugando. 
 •	** Según respuesta**
@@ -81,10 +81,10 @@ Shrek: Ahora puedes darte un baño de lodo// eres como una cebolla.
 •	Dos botones para volver a jugar. 
 
 
-ocupamos la aplicacion figma para realizar el bosquejo y ver como se veria aparenemente en la web
+ocupamos la aplicación figma para realizar el bosquejo y ver como se veria aparenemente en la web
 -	Figma (bosquejo).
 https://www.figma.com/file/q2J3fyfPqfgnQtLCQRqxcl/portada?node-id=23%3A9
 
-* luego comenzamos a codear en visual studio code
-* y subimos nuestro codigo a replit  para poder probar y modificar
+* luego comenzamos a codear en visual studio code 
+* y subimos nuestro código a replit  para poder probar y modificar
 * https://replit.com/@squad3-2/WittyElderlyCareware#index.html
